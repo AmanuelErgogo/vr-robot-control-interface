@@ -1,13 +1,10 @@
 # vr-robot-control-interface
 ## Setup
-### Setup Oculus quest side
-
-### To control robot in Isaac sim
-
-### To Control Physical robot
-
-### Digital twin mode
-
+### Setup Oculus quest2 side
+Install vr-robot-control app in oculus quest2
+1. download and install app built for oculus quest2
+2. Build from source for your virtual reality headset
+### Setup your PC
 1. create a catkin workspace
 
 2. clone repositories
@@ -20,4 +17,9 @@ git clone
 
 3. build 
 
-4. 
+### To control robot in Isaac sim
+1. Download Isaac sim xarm robot usd file or setup your own scene as shown in Isaac sim documentation
+
+### To Control Physical robot
+
+### Digital twin mode
