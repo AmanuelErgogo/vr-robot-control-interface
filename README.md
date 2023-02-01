@@ -1,5 +1,12 @@
 # vr-robot-control-interface
-## Install
+## Setup
+### Setup Oculus quest side
+
+### To control robot in Isaac sim
+
+### To Control Physical robot
+
+### Digital twin mode
 
 1. create a catkin workspace
 
