@@ -1,4 +1,5 @@
 # vr-robot-control-interface
+Virtual reality headset - robot interface via ROS topics
 ## Setup
 ### Setup Oculus quest2 side
 Install vr-robot-control app in oculus quest2
