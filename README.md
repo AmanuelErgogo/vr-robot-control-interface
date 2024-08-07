@@ -17,3 +17,5 @@ https://github.com/AmanuelErgogo/oculus-robot-teleop.git
 To run with xArm7 robot:
 https://github.com/AmanuelErgogo/VR-Robot-Control/tree/master
 
+## Task Learning
+Task execution and learning: https://github.com/AmanuelErgogo/hilotel.git
