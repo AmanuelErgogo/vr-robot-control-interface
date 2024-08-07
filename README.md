@@ -1,7 +1,6 @@
 # vr-robot-control-interface
 Virtual reality headset - robot interface via ROS topics.
 Tested with Oculus quest2 and Xarm7 robotic arm, IsaacSim simulator.
-<iframe width="560" height="315" src="https://youtu.be/eIEKugL0zfE?si=UQgiymvPfMXAU-VG" frameborder="0" allowfullscreen></iframe>
 ## Frontend
 ### Setup Oculus quest2 side
 Two options to setup your vr headset as robot control frontend.
